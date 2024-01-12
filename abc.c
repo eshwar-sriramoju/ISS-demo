@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(){
-    int n;
-    int b;
+    int n = 5;
+
+    printf("%d\n", n);
 
 }
